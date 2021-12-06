@@ -2,6 +2,7 @@
 Photoshop to QML Exporter
 
 Version: 0.4
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 For information about Qt Quick itself:
 http://qt-project.org/doc/qt-5.0/qtquick/qtquick-index.html
